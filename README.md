@@ -21,7 +21,8 @@ The company wants to identify employees who are eligible for mentorship employee
 
 
 ## Summary: 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 **90398** roles are going to open up which will need to be filled in as the employees retire. However, there are only **1549** employees eligible for mentorship. There is a huge gap which will need to be backfilled with additional hiring. 
+
 The employees eligible for mentorship should be grouped by titles and departments to match them to appropriate mentors for e.g. the *Engineers* in the *Research* team should be paired with *Senior Engineers* who are going to retire.
+
 Additional analysis can be done to identify younger employees (born between 1965 to 1970) for mid-level roles such as *'Senior Engineer'* and *'Senior Staff'* and fast track them through training and mentorship.
